@@ -1,5 +1,5 @@
 # CRACKER
-git clone https://github.com/ZoroScripter/CRACKER
+git clone https://github.com/ZoroScripter/CRACKER.git
 
 
 cd CRACKER
